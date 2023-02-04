@@ -1,0 +1,13 @@
+I tipi pongono vincoli stati alle entità del programma, come: funzioni, variabili, e proprietà, 
+in modo che i compilatori possano offrire verifica e assistenza migliori durante sviluppo.
+
+sistema di tipi di compilazione statico consente di esprimere in modo accurato la relazione di tipo previste durante run-time
+analisi dei tipi avviene interamente in fase di compilazione e non aggiunge overhead in fase di esecuzione del programma
+
+i tipi statici consentono di documentare meglio le finalità del codice, consentono agli sviluppatori di comprenderlo meglio
+
+DICHIARAZIONE DI VARIABILI LET E consente
+le dichiarazioni LET  possono essere eseguite senza inizializzazione,
+mentre le dichiarazioni CONST vengono sempre inizializzate con un valore.
+inoltre CONST una volta asssegnata non possono mai essere riassegnate.
+
